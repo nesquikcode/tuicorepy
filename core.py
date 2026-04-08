@@ -6,7 +6,7 @@ from typing import Callable
 from PIL import Image as PILImage
 from blessed import Terminal
 import numpy as np
-from app.tools import get_frames
+from tools import get_frames
 import sys
 import io
 
